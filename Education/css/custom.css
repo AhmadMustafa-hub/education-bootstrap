@@ -1,0 +1,144 @@
+.social{
+	background-color: #2d3092;
+}
+.social a{
+	color:#fff;
+}
+.login a{
+	text-decoration: none;
+	color: #86878a;
+}
+.login a:hover{
+	color: #2d3092;
+}
+.nav{
+	color:#2d3092;
+}
+.nav-link{
+	color: #86878a;
+	font-weight: bold;
+}
+.nav-link:hover{
+	color: #2d3092;	
+}
+.circle{
+	border-radius: 30px;
+	background-color: #f4f4f4;
+	width: 50px;
+	height: 50px;
+	font-family: sans-serif;
+	font-size:large;
+}
+.circlebtn{
+	border-radius: 30px;
+	background-color: #2d3092;
+	color: #fff;
+	width: 50px;
+	height: 50px;
+	position: relative;
+	right: 47px;
+}
+.hero{
+	background-color: #bcdefe;
+}
+.heropic{
+	width: 90%;
+}
+.size{
+	font-weight: bold;
+}
+.card-link{
+	color:black;
+}
+.card-title{
+	color:#2d3092;
+}
+.card:hover a,
+.card:hover h5,
+.card:hover i,
+.card:hover
+{
+	background-color: #2d3092;
+	color: #fff !important;
+
+}
+.icon{
+	color:#17a2b8;
+}
+.fmore{
+	background-color: #2d3092;
+	color: #fff !important;
+	width: 28%;
+	border-radius: 0px;
+}
+.topics{
+	background-color: #f6fbff;
+	height: 20rem;
+}
+.wspace{
+	height: 12rem;
+}
+.wspace-2{
+	height: 4rem;
+}
+.teacher{
+	background-color: #2d3092;
+}
+.more{
+	background-color: #fff;
+	color:#a09b9b !important;
+	width: 13rem;
+}
+.more:hover{
+	background-color: black;
+	color:#fff !important;
+
+}
+.abtbtn{
+	background-color: #2d3092;
+	color: #fff;
+	border-radius: 0px;
+}
+.news{
+	width:33rem !important;
+}
+.news:hover .card-title,
+.news:hover .card-text,
+.news:hover .card-link,
+.news:hover{
+	background-color: #fff !important;
+	color:black !important;
+}
+.footer{
+	background-color: #0b0b1d;
+}
+.footinbt,
+.footerbtn{
+	border-radius: 0px;
+	height: 4rem;
+	border:0px;
+}
+.input-group{
+	width: 29rem;
+}
+.footerbtn{
+	background-color: #2d3092;
+	color:#fff;
+}
+.footerbtn:hover{
+	cursor: pointer;
+}
+.fotnv{
+	font-weight: bold;
+	color: #fff !important;
+}
+hr .foothr{
+	border: 1px solid #fff;
+}
+.fspan{
+	color:#2d3092 !important;
+}
+.fspan1{
+	color: transparent;
+	text-shadow: 0 0 0  #2d3092;
+}
